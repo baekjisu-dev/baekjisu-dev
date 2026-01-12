@@ -80,6 +80,6 @@
 ## ✉️ Contact
 <div>
   <a href="mailto:jisu.dev6476@gmail.com">
-    <img src="https://img.shields.io/badge/jisu.dev6476@gmail.com-EA4335?style=for-the-badge&logo=gamil&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/jisu.dev6476@gmail.com-EA4335?style=for-the-badge&logo=gamil&logoColor=white" />
   </a>
 </div>
