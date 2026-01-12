@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=✨Jisu%20Baek✨&fontSize=64&fontAlignY=45&desc=Welcome%20to%20My%20Github!%20%20👩‍💻)
+<div center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=✨Jisu%20Baek✨&fontSize=64&fontAlignY=45&desc=Welcome%20to%20My%20Github!%20%20👩‍💻" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=console.log(%22%EC%A0%80%EC%97%90+%EB%8C%80%ED%95%B4+%EC%86%8C%EA%B0%9C%ED%95%A0%EA%B2%8C%EC%9A%94.%22);)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=console.log(%22%EC%A0%80%EC%97%90+%EB%8C%80%ED%95%B4+%EC%86%8C%EA%B0%9C%ED%95%A0%EA%B2%8C%EC%9A%94.%22);" alt="Typing SVG" /></a>
+</div>
 
 
 <div align="center">
@@ -35,7 +39,8 @@
 <div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
     <p>의미에 맞게 각 영역 별로 적절한 태그를 사용할 수 있고, 피그마의 디자인을 기반으로 하여 컴포넌트 제작 및 반응형 UI를 구현할 수 있습니다.</p>
   </div>
   <div>
@@ -72,9 +77,9 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
-## 📞 Contact
+## ✉️ Contact
 <div>
-  <a href="mailto:jisu.dev6476@gmail.com">
+  <a href=mailto:jisu.dev6476@gmail.com">
     <img src="https://img.shields.io/badge/jisu.dev6476@gmail.com-EA4335?style=for-the-badge&logo=gamil&logoColor=white" />&nbsp
   </a>
 </div>
