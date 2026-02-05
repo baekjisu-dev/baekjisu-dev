@@ -77,6 +77,11 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
+## Site
+<a href="https://velog.io/@js_baek" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
 ## ✉️ Contact
 <div>
   <a href="mailto:jisu.dev6476@gmail.com">
