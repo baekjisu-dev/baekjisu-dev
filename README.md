@@ -77,6 +77,20 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
+## 🎞️ 사이드 프로젝트
+### 📑Trace
+<img width="497" height="704" alt="image" src="https://github.com/user-attachments/assets/3f2e2786-720a-499d-bd5c-41589c93b09a" />
+
+<a href="https://trace-blond.vercel.app/">프로젝트로 이동</a>
+> TRACE는 책과 감상을 기록하고 공유하는 SNS입니다. 읽은 것, 느낀 것, 남기고 싶은 순간들을 부드럽고 따뜻한 분위기로 정리할 수 있도록 설계했습니다.
+> 퇴근 후 제가 만들고 싶었던 것들에 대해 차분히 생각하며 하나씩 기능을 개발했습니다.
+- **기술 스택**
+  - React, Typescript, Tanstak Query, react-hook-form, zod, Shadcn/ui, Supabase
+- **참여 인원**
+  - 1명
+- **기간**
+  - 2026년 1월 13일 ~ 2026년 2월 8일 (약 한 달)
+
 ## Site
 <a href="https://velog.io/@js_baek" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
