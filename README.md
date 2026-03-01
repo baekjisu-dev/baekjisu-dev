@@ -91,6 +91,19 @@
 - **기간**
   - 2026년 1월 13일 ~ 2026년 2월 8일 (약 한 달)
 
+### 🍅My Little Pomodoro
+<img width="348" height="600" alt="image" src="https://github.com/user-attachments/assets/09404dfb-5583-415a-a980-c685c922d6f2" />
+
+<a href="https://my-little-pomodoro.vercel.app/">프로젝트로 이동</a>
+> My Little Pomodoro는 뽀모도로 기법을 활용한 집중력 관리 웹 앱입니다. 태그로 세션을 분류하고, 30일간의 집중 기록을 히트맵으로 시각화합니다.
+> 제가 자주 쓰고 싶은 도구를 직접 만들어보자는 마음으로 시작했습니다.
+- **기술 스택**
+  - React, Typescript, Zustand, Shadcn/ui, Tailwind CSS
+- **참여 인원**
+  - 1명
+- **기간**
+  - 2026년 2월 16일 ~ 2026년 2월 26일 
+
 ## Site
 <a href="https://velog.io/@js_baek" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
